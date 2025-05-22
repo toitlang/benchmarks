@@ -1,4 +1,4 @@
-// Copyright (C) 2022 Toitware ApS.
+// Copyright (C) 2025 Toit contributors.
 
 // This is a Toit implementation of the Pystone benchmark from:
 //
